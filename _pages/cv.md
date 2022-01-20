@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version]()
+[PDF Version](https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume%20-%20Kartik%20Nagpal%20-%20Spring%202022.pdf)
 
 Education
 ======
