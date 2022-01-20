@@ -1,7 +1,7 @@
 ---
 title: "Transparency and Accountability in Space Domain Awareness: Demonstrating ASTRIAGraph’s Capabilities with the United Nations Registry Data"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-27-01-paper-title-number-1
 excerpt: 'Near-earth space is geopolitically contested, commercially contested, and in need of environmental protection. To achieve space safety, security, and sustainability, we are developing ASTRIAGraph, a framework that enables monitoring, assessment, and verification of space actor behavior in the context of legal and policy instruments.'
 date: 2021-27-01
 venue: 'Texas ScholarWorks'
