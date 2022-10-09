@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kartik Nagpal"
 title_separator          : "-"
 name                     : &name "Kartik Nagpal"
-description              : &description "PhD Student at UIUC"
+description              : &description "PhD Student at University of Illinois Urbana-Champaign"
 url                      : https://kartik-nagpal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kartik-Nagpal/Kartik-Nagpal.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kartik Nagpal"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at University of Illinois Urbana-Champaign"
+  bio              : "PhD Student at UIUC"
   location         : "Champaign, IL"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
