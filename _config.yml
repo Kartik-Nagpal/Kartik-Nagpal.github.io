@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kartik Nagpal"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at UC Berkeley"
-  location         : "Berkeley, CA"
+  bio              : "PhD Student at University of California, Berkeley"
+  location         : 
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=UezOFIsAAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  https://www.researchgate.net/profile/Kartik-Nagpal # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :  "https://scholar.google.com/citations?user=UezOFIsAAAAJ&hl=en&oi=ao"
+  email            :  "kartiknagpal at berkeley dot edu"
+  researchgate     :  "https://www.researchgate.net/profile/Kartik-Nagpal" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
