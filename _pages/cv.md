@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
