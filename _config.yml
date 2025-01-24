@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kartik Nagpal"
   avatar           : "profile.jpg"
-  bio              : "kartiknagpal at berkeley dot edu"
+  bio              : "Learning high-complexity robot interaction in safety-critical environments"
   location         : 
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?user=UezOFIsAAAAJ&hl=en&oi=ao"
-  email            :  
+  email            :  "kartiknagpal@berkeley.edu"
   researchgate     :  "https://www.researchgate.net/profile/Kartik-Nagpal" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kartik-nagpal-3365a418b/"
+  linkedin         : "the-kartik-nagpal/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8973-5959"
   pinterest        :
   soundcloud       :

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version](https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume%20-%20Kartik%20Nagpal%20-%20Spring%202022.pdf)
+[PDF Version](https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume.pdf)
 
 Education
 ======
