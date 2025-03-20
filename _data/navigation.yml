@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "CV"
-  url: https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume.pdf?raw=true
+    url: https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume.pdf?raw=true
 
   - title: "Lab Website"
-  url: https://iconlab.negarmehr.com/
+    url: https://iconlab.negarmehr.com/
