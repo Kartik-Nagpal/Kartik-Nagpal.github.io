@@ -1,7 +1,7 @@
 ---
 # layout: about
 permalink: /
-title: "Kartik Nagpal"
+# title: "Kartik Nagpal"
 # excerpt: "About me"
 author_profile: true
 redirect_from:
