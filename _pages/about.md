@@ -1,5 +1,5 @@
 ---
-layout: about
+# layout: about
 permalink: /
 title: "Kartik Nagpal"
 # excerpt: "About me"
@@ -11,6 +11,11 @@ news: true # includes a list of news items
 ---
 
 Howdy! I am a PhD Student in Mechanical Engineering at the University of California at Berkeley. I am  a member of the [ICON Lab](https://iconlab.negarmehr.com/), advised by [Dr. Negar Mehr](https://negarmehr.com/). My research focuses on learning intricate multi-robot behavior for safety-critical environments, with an emphasis on safe reinforcement learning and multiagent coordination. My latest publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UezOFIsAAAAJ&view_op=list_works&sortby=pubdate). In recognition of my recent work, I was awarded the NSF GRFP in 2024. Prior to beginning my graduate studies, I earned my B.S. in Computational Engineering from the University of Texas at Austin.
+
+<h2>
+  <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+</h2>
+{% include news.html limit=true %}
 
 <!-- Kartik is a PhD Student in Mechanical Engineering at the University of California at Berkeley. Kartik is a member of the [ICON Lab](https://iconlab.negarmehr.com/), advised by [Dr. Negar Mehr](https://negarmehr.com/). His research focuses on learning intricate multi-robot behavior for safety-critical environments, with an emphasis on safe reinforcement learning and multiagent coordination. His latest publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UezOFIsAAAAJ&view_op=list_works&sortby=pubdate). In recognition of his work, he was awarded the NSF GRFP in 2024. Prior to his graduate studies, Kartik earned his B.S. in Computational Engineering from the University of Texas at Austin. -->
 
