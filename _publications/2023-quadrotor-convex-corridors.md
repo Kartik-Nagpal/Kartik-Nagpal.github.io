@@ -5,7 +5,7 @@ permalink: /publication/2023-quadrotor-convex-corridors
 excerpt: 'ONE of the challenges for flying quadrotors in cluttered envi-ronments is to optimize their trajectories subject to collision avoidance constraints in real time. Along such a trajectory, the position of the quadrotor must stay within a set of collision-free corridors. Each corridor is a bounded convex flight space.'
 date: 2023-06-01
 venue: 'AIAA Journal of Guidance, Control, and Dynamics'
-citation: 'https://doi.org/10.2514/1.G007218'
+paperurl: 'https://doi.org/10.2514/1.G007218'
 ---
  One of the challenges for flying quadrotors in cluttered environments is to optimize their trajectories subject to collision-avoidance constraints in real time [1,2]. Along such a trajectory, the position of the quadrotor must stay within a set of collision-free corridors. Each corridor is a bounded convex flight space. The union of all these corridors forms a nonconvex pathway connecting the quadrotor’s current position to its target position [3].
 
