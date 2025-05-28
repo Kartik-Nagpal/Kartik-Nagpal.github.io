@@ -1,7 +1,10 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "News"
+    url: /news/
 
   - title: "CV"
     url: https://github.com/Kartik-Nagpal/Kartik-Nagpal.github.io/blob/master/files/Resume.pdf?raw=true
