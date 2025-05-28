@@ -10,12 +10,12 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% assign icon = 'fa-solid fa-arrow-up-right-from-square' %}
+              {% assign icon = 'fas fa-external-link-alt' %}
               {% else %}
               {% assign domain = base_path %}
               {% assign icon = '' %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" class="{{ icon }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"><i class="{{ icon }}" aria-hidden="true"></i>{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
