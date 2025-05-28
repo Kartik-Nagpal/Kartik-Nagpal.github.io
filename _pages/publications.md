@@ -5,7 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my most updated articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+{% if author.googlescholar %}
+  You can find my most updated articles on <u><a href="{{ author.googlescholar }}">my <i class="fas fa-fw fa-graduation-cap"> Google Scholar</a>.</u>
+{% endif %}
+
+
+
+---
 
 {% include base_path %}
 
