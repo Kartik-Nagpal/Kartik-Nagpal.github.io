@@ -11,4 +11,4 @@ Near-earth space is geopolitically and commercially contested, and in need of en
 
 [Download paper here](http://dx.doi.org/10.26153/tsw/11754)
 
-Recommended citation: Simone, Nevan, et al. “Transparency and Accountability in Space Domain Awareness: Demonstrating ASTRIAGRAPH's Capabilities with the United Nations Registry Data.” TexasScholarWorks, University of Texas Libraries, 27 Jan. 2021, https://repositories.lib.utexas.edu/handle/2152/84783.
+[Citation Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:u0nRx1lQGUsJ:scholar.google.com/&output=citation&scisdr=CgLNbWkeENbzgYqZTH8:AAZF9b8AAAAAaDefVH-oq0y7vEhsOKzlwZeinYA&scisig=AAZF9b8AAAAAaDefVEVEE9sBZlU8sRsNm3R1E8Y&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
