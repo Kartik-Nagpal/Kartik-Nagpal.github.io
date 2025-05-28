@@ -15,7 +15,7 @@
               {% assign domain = base_path %}
               {% assign icon = '' %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"><i class="{{ icon }}" aria-hidden="true"></i>{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }} <i class="{{ icon }}" aria-hidden="true"></i></a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
