@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kartik Nagpal"
   avatar           : "profile.jpg"
-  bio              : "Learning high-complexity robot interaction in safety-critical environments"
+  bio              : "Learning complex robot behavior for safety-critical environments"
   location         : 
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TheKartikNagpal"
+  twitter          : # "TheKartikNagpal"
   vine             :
   weibo            :
   xing             :
