@@ -2,7 +2,7 @@
 title: "Optimal Robotic Assembly Sequence Planning (ORASP): A Sequential Decision-Making Approach"
 collection: publications
 permalink: /publication/2024-orasp
-excerpt: 'Proposed a new formulation of the robotic assembly sequencing problem as a Markov Decision Process. Then showed how a class of methods called Graph Exploration Assembly Planners (GEAPs) can be used to gather optimal assembly sequences from a graph. We then showcased a deep reinforcement learning extension for handling very complex structures, all while handling diverse constraints.'
+excerpt: "Proposed a new formulation of the robotic assembly sequencing problem as a Markov Decision Process. Then showed how a class of methods called Graph Exploration Assembly Planners (GEAPs) can be used to gather optimal assembly sequences from a graph. We then showcased a deep reinforcement learning extension for handling very complex structures, all while handling diverse constraints.<br/><img src='images/paper_images/ORASP-Results.png'>"
 date: 2024-06-01
 venue: '2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://doi.org/10.1109/IROS58592.2024.10802475'
