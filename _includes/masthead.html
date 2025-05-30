@@ -9,15 +9,10 @@
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% assign icon = 'fas fa-external-link-alt' %}
-              {% assign target = '_blank' %}
+              <li class="masthead__menu-item"><a href="{{ link.url }}" target="'_blank">{{ link.title }} <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>
               {% else %}
-              {% assign domain = base_path %}
-              {% assign icon = '' %}
-              {% assign target = '_self' %}
+              <li class="masthead__menu-item"><a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="{{ target }}">{{ link.title }} <i class="{{ icon }}" aria-hidden="true"></i></a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
