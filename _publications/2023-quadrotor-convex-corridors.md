@@ -2,7 +2,7 @@
 title: "Real-time quadrotor trajectory optimization with time-triggered corridor constraints"
 collection: publications
 permalink: /publication/2023-quadrotor-convex-corridors
-excerpt: "One of the challenges for flying quadrotors in cluttered envi-ronments is to optimize their trajectories subject to collision avoidance constraints in real time. Along such a trajectory, the position of the quadrotor must stay within a set of collision-free corridors. Each corridor is a bounded convex flight space."
+excerpt: "<br/><img src='/images/paper_images/PIPG-Results.png'><br/>One of the challenges for flying quadrotors in cluttered envi-ronments is to optimize their trajectories subject to collision avoidance constraints in real time. Along such a trajectory, the position of the quadrotor must stay within a set of collision-free corridors. Each corridor is a bounded convex flight space."
 date: 2023-06-01
 venue: 'AIAA Journal of Guidance, Control, and Dynamics'
 paperurl: 'https://doi.org/10.2514/1.G007218'

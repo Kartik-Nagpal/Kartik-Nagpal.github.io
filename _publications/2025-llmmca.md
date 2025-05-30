@@ -1,0 +1,15 @@
+---
+title: "Leveraging Large Language Models for Effective and Explainable Multi-Agent Credit Assignment"
+collection: publications
+permalink: /publication/2025-llmmca
+excerpt: "<br/><img src='/images/paper_images/LLMMCA-Architecture.png'><br/>Robots collaborating for shared goals face a challenge: determining each agent's contribution to team success or failure. This paper introduces LLM-MCA and LLM-TACA, methods that use Large Language Models to assign credit and even tasks to individual agents, significantly outperforming existing approaches."
+date: 2025-01-01
+venue: '2025 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)'
+paperurl: 'https://arxiv.org/abs/2502.16863'
+---
+
+Recent work, spanning from autonomous vehicle coordination to in-space assembly, has shown the importance of learning collaborative behavior for enabling robots to achieve shared goals. A common approach for learning this cooperative behavior is to utilize the centralized-training decentralized-execution paradigm. However, this approach also introduces a new challenge: how do we evaluate the contributions of each agent's actions to the overall success or failure of the team. This credit assignment problem has remained open, and has been extensively studied in the Multi-Agent Reinforcement Learning literature. In fact, humans manually inspecting agent behavior often generate better credit evaluations than existing methods. We combine this observation with recent works which show Large Language Models demonstrate human-level performance at many pattern recognition tasks. Our key idea is to reformulate credit assignment to the two pattern recognition problems of sequence improvement and attribution, which motivates our novel LLM-MCA method. Our approach utilizes a centralized LLM reward-critic which numerically decomposes the environment reward based on the individualized contribution of each agent in the scenario. We then update the agents' policy networks based on this feedback. We also propose an extension LLM-TACA where our LLM critic performs explicit task assignment by passing an intermediary goal directly to each agent policy in the scenario. Both our methods far outperform the state-of-the-art on a variety of benchmarks, including Level-Based Foraging, Robotic Warehouse, and our new Spaceworld benchmark which incorporates collision-related safety constraints. As an artifact of our methods, we generate large trajectory datasets with each timestep annotated with per-agent reward information, as sampled from our LLM critics. 
+
+[Download paper here](https://arxiv.org/abs/2502.16863)
+
+[Citation Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:Lg_P_Sx69wEJ:scholar.google.com/&output=citation&scisdr=CgLNbWlnENbzgYX8Oro:AAZF9b8AAAAAaDj6Irq3y3o_cL3PBtfMs4x2fSI&scisig=AAZF9b8AAAAAaDj6InNHmuJHcEbiU3T4CGnva4s&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
