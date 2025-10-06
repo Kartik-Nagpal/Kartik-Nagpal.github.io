@@ -14,7 +14,7 @@ Howdy! I am a PhD Student in Mechanical Engineering at the University of Califor
 
 Prior to beginning my graduate studies, I earned my B.S. in Computational Engineering from the University of Texas at Austin. During my undergraduate degree, I had the privilege of doing research with [Dr. Ufuk Topcu](https://u-t-autonomous.github.io/index.html) and [Dr. Moriba Jah](https://www.ae.utexas.edu/people/faculty/faculty-directory/jah).
 
-In his free time, Kartik enjoys reading science-fiction novels, travelling to other countries, and making pizzas with his friends.
+In his free time, Kartik enjoys reading science-fiction novels, travelling abroad, and making pizzas with his friends.
 
 
 
