@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  You can find my most updated articles on my <a href="{{ author.googlescholar }}">Google Scholar <i class="fas fa-fw fa-graduation-cap"></i></a>.
+  You can find the most up-to-date on my <a href="{{ author.googlescholar }}">Google Scholar <i class="fas fa-fw fa-graduation-cap"></i></a>, but I have primers for some of my most interesting work below.
 {% endif %}
 
 ---
