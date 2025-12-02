@@ -16,7 +16,7 @@ Prior to beginning my graduate studies, I earned my B.S. in Computational Engine
 
 Outside of the lab, I enjoy reading science-fiction novels, travelling abroad, and making pizzas for my friends.
 
-
+**Email:** \[first name\]\[last name\] at berkeley dot edu
 
 <h2>
   <a href="{{ '/news/' | relative_url }}" style="color: inherit; text-decoration: none;">News</a>
