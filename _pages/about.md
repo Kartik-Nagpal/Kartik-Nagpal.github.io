@@ -10,11 +10,13 @@ redirect_from:
 news: true # includes a list of news items
 ---
 
-Howdy! I am a PhD Candidate in the Mechanical Engineering Department at the University of California at Berkeley. I perform research within the [ICON Lab](https://iconlab.negarmehr.com/), advised by [Dr. Negar Mehr](https://negarmehr.com/). My research focuses on **learning intricate multi-robot behavior for safety-critical environments**, with an emphasis on safe reinforcement learning and multiagent coordination. My latest publications are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UezOFIsAAAAJ&view_op=list_works&sortby=pubdate). In recognition of my recent work, I have been honored with the NSF Graduate Research Fellowship.
+Howdy! I am a PhD Candidate in the Mechanical Engineering Department at the University of California at Berkeley. I perform research within the [ICON Lab](https://iconlab.negarmehr.com/), advised by [Dr. Negar Mehr](https://negarmehr.com/). My research focuses on **learning intricate multi-robot behavior for safety-critical environments**, with an emphasis on safe reinforcement learning and multiagent coordination. My latest publications are available on [my Google Scholar](https://scholar.google.com/citations?hl=en&user=UezOFIsAAAAJ&view_op=list_works&sortby=pubdate). In recognition of my recent work, I have been honored with the NSF Graduate Research Fellowship.
 
 Prior to beginning my graduate studies, I earned my B.S. in Computational Engineering from the University of Texas at Austin. During my undergraduate degree, I had the privilege of doing research with [Dr. Ufuk Topcu](https://u-t-autonomous.github.io/index.html) and [Dr. Moriba Jah](https://www.ae.utexas.edu/people/faculty/faculty-directory/jah).
 
 Outside of the lab, I enjoy reading science-fiction novels, travelling abroad, and making pizzas for my friends.
+
+I am actively looking for postdoctoral positions for the 2026-2027 session.
 
 **Email:** \[first name\]\[last name\] at berkeley dot edu
 
