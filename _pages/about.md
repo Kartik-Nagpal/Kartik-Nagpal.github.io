@@ -14,9 +14,7 @@ Howdy! I am a PhD Candidate in the Mechanical Engineering Department at the Univ
 
 Prior to beginning my graduate studies, I earned my B.S. in Computational Engineering from the University of Texas at Austin. During my undergraduate degree, I had the privilege of doing research with [Dr. Ufuk Topcu](https://u-t-autonomous.github.io/index.html) and [Dr. Moriba Jah](https://www.ae.utexas.edu/people/faculty/faculty-directory/jah).
 
-Outside of the lab, I enjoy reading science-fiction novels, travelling abroad, and making pizzas for my friends.
-
-I am actively looking for postdoctoral positions for the 2026-2027 session.
+Outside of the lab, I enjoy reading science-fiction novels, travelling abroad, and making pizzas for my friends. _I am also actively looking for postdoctoral positions for the 2026-2027 session._
 
 **Email:** \[first name\]\[last name\] at berkeley dot edu
 
